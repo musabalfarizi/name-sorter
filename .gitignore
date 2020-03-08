@@ -1,0 +1,3 @@
+*.exe
+dist/
+sorted-names-list.txt
