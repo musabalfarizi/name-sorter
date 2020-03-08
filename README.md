@@ -56,6 +56,7 @@ Unit tests should exist.
 Minimal, practical documentation should exist.
 Awesome, but not essential criteria
 Create a build pipeline like Travis or AppVeyor that execute build and test steps.
+
 Submission
 When you are done let us know the URL of the repo, be prepared to answer any follow up questions about your design and solution.
 
@@ -65,6 +66,7 @@ The main solution is written in C#, since this is the main language used in-hous
 The solution is built and run on Gentoo Linux with the command
 
 $ make
+
 which runs the test in UnitTests.cs This source betrays the one thing I couldn't get working: the NUnit unit testing framework. There should not be a Main in class NameSorterTests. Despite asking here and here in the Gentoo forums, as well as on Stack Overflow, I couldn't resolve this issue.
 
 The solution nevertheless does satisfy all the essential criteria.
