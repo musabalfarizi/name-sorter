@@ -43,18 +43,18 @@ Executing the program in the following way;
 
 Should result the sorted names to screen;
 
-    Avie Annakin
-    Hailey Annakin
-    Erna Dorey Battelle
-    Selle Bellison
-    Flori Chaunce Franzel
-    Orson Milka Iddins
-    Odetta Sue Kaspar
-    Roy Ketti Kopfen
-    Madel Bordie Mapplebeck
-    Debra Micheli
-    Leonerd Adda Micheli Monaghan
-    Leonerd Adda Mitchell Monaghan
+        Avie Annakin
+        Hailey Annakin
+        Erna Dorey Battelle
+        Selle Bellison
+        Flori Chaunce Franzel
+        Orson Milka Iddins
+        Odetta Sue Kaspar
+        Roy Ketti Kopfen
+        Madel Bordie Mapplebeck
+        Debra Micheli
+        Leonerd Adda Micheli Monaghan
+        Leonerd Adda Mitchell Monaghan
 
 and also put the results into a file in the working directory called sorted-names-list.txt.
 
