@@ -1,5 +1,5 @@
 Trivial "Sort by Last Name" Exercise
-====================================
+------------------------------------
 
 A demonstration exercise for a simple task:
 
@@ -24,17 +24,18 @@ name must have at least 1 given name and may have up to 3 given names.
 
 Given a a file called unsorted-names-list.txt containing the following list of names;
 
-    Janet Parsons
-    Vaughn Lewis
-    Adonis Julius Archer
-    Shelby Nathan Yoder
-    Marin Alvarez
-    London Lindsey
-    Beau Tristan Bentley
-    Leo Gardner
-    Hunter Uriah Mathew Clarke
-    Mikayla Lopez
-    Frankie Conner Ritter
+        Orson Milka Iddins
+        Erna Dorey Battelle
+        Flori Chaunce Franzel
+        Odetta Sue Kaspar
+        Roy Ketti Kopfen
+        Madel Bordie Mapplebeck
+        Selle Bellison
+        Leonerd Adda Mitchell Monaghan
+        Debra Micheli
+        Hailey Annakin
+        Leonerd Adda Micheli Monaghan
+        Avie Annakin
 
 Executing the program in the following way;
 
@@ -42,19 +43,20 @@ Executing the program in the following way;
 
 Should result the sorted names to screen;
 
-    Marin Alvarez
-    Adonis Julius Archer
-    Beau Tristan Bentley
-    Hunter Uriah Mathew Clarke
-    Leo Gardner
-    Vaughn Lewis
-    London Lindsey
-    Mikayla Lopez
-    Janet Parsons
-    Frankie Conner Ritter
-    Shelby Nathan Yoder
+    Avie Annakin
+    Hailey Annakin
+    Erna Dorey Battelle
+    Selle Bellison
+    Flori Chaunce Franzel
+    Orson Milka Iddins
+    Odetta Sue Kaspar
+    Roy Ketti Kopfen
+    Madel Bordie Mapplebeck
+    Debra Micheli
+    Leonerd Adda Micheli Monaghan
+    Leonerd Adda Mitchell Monaghan
 
-and a file in the working directory called sorted-names-list.txt containing the sorted names.
+and also put the results into a file in the working directory called sorted-names-list.txt.
 
 ## Assessment Criteria
 
@@ -73,7 +75,8 @@ Your submission must meet the following criteria.
 
 ## Submission
 
-When you are done let us know the URL of the repo.
+When you are done let us know the URL of the repo, be prepared to answer any follow up questions about
+your design and solution.
 
 # Notes on This Solution
 
